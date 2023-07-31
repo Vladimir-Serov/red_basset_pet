@@ -49,7 +49,7 @@ def authorization(size_window):
 def podcarter_cabinet(authorization):
     main_page.header_drop_button()
     main_page.to_cabinet_button()
-    podcaster.close_monetization()
+    # podcaster.close_monetization()
 
 
 @pytest.fixture()

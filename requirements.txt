@@ -1,4 +1,4 @@
-allure-pytest==2.13.2
+allure-pytest
 pytest==7.3.1
 selene==2.0.0rc3.post3
 selenium==4.10.0
