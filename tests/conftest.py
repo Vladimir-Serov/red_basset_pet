@@ -26,6 +26,7 @@ def size_window():
     browser.quit()
 
 
+
 # @pytest.fixture(scope='function', autouse=True)
 # def browser_management():
 #     browser.config.base_url = os.getenv('selene.base_url', 'https://redbasset.tech/')
