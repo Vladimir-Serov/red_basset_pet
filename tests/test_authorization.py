@@ -16,3 +16,4 @@ def test_for_authorization(size_window):
 
     with allure.step('Проверка что авторизован '):
         main_page.shoud_authorized('yksyp@mailto.plus')
+
