@@ -2,7 +2,6 @@ import allure
 from tests.conftest import main_page
 from tests.conftest import auth_page
 
-
 def test_for_authorization(size_window):
     with allure.step('Открытие браузера'):
         main_page.open('https://redbasset.tech/')
