@@ -3,6 +3,7 @@ import allure
 from allure_commons.types import Severity
 
 
+
 @allure.tag('web')
 @allure.severity(Severity.BLOCKER)
 @allure.label('owner', 'nsbelova')
