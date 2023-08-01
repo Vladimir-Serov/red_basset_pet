@@ -1,1 +1,1 @@
-{"uid":"b1a8273437954620fa374b796ffaacdd","children":[],"name":"behaviors"}
+{"uid":"b1a8273437954620fa374b796ffaacdd","children":[{"name":"test_issue_name_for_github_repo","uid":"bbb2b0a88db11ff5","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"broken","time":{"start":1690871887941,"stop":1690871894167,"duration":6226},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"name":"behaviors"}
