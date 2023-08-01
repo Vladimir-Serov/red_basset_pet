@@ -17,7 +17,6 @@ def browser_management():
     browser.quit()
 
 
-
 def test_for_authorization(browser_management):
     with allure.step('Открытие браузера'):
         main_page.open('https://redbasset.tech/')
