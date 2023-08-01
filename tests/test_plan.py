@@ -1,4 +1,4 @@
-from selene import browser, have, by
+from selene import browser
 
 
 def test_issue_name_for_github_repo():
